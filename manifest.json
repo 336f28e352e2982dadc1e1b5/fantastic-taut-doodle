@@ -1,0 +1,8 @@
+{
+  "domain": "tautullipy",
+  "name": "Tautullipy",
+  "documentation": "https://www.home-assistant.io/integrations/tautulli",
+  "requirements": ["pytautulli==21.8.1"],
+  "codeowners": ["@ludeeus"],
+  "iot_class": "cloud_polling"
+}
